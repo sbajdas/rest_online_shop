@@ -1,1 +1,2 @@
-# rest_online_shop
+# rest-shop
+Simple Spring Boot REST API for an online shop, with Hibernate.
